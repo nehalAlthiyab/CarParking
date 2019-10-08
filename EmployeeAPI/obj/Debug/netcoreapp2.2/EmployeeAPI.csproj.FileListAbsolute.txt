@@ -1,0 +1,14 @@
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.2\EmployeeAPI.deps.json
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.2\EmployeeAPI.runtimeconfig.json
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.2\EmployeeAPI.runtimeconfig.dev.json
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.2\EmployeeAPI.dll
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.csproj.CoreCompileInputs.cache
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.RazorAssemblyInfo.cache
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.RazorAssemblyInfo.cs
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.AssemblyInfoInputs.cache
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.AssemblyInfo.cs
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.RazorTargetAssemblyInfo.cache
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\bin\Debug\netcoreapp2.2\EmployeeAPI.pdb
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.dll
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.pdb
+C:\Users\nthiyab\Desktop\EmployeeAPI\EmployeeAPI\obj\Debug\netcoreapp2.2\EmployeeAPI.csprojAssemblyReference.cache
